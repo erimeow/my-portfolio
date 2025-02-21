@@ -12,7 +12,7 @@ body {
 header {
     background-color: #1f1f1f;
     padding: 20px;
-	font-family: Georgia, serif;
+	font-family: cursive;
 }
 
 h1 {
@@ -26,8 +26,8 @@ nav {
 }
 
 button {
-    background-color: #A9A9A9; /* Dark background */
-    color: white; /* White text */
+    background-color: #A9A9A9; 
+    color: white; 
     border: none;
     padding: 10px 20px;
     font-size: 16px;
@@ -38,15 +38,15 @@ button {
 }
 
 button:hover {
-    background-color: #696969; /* Slightly lighter on hover */
-    transform: scale(1.05); /* Slight bounce effect */
+    background-color: #696969; 
+    transform: scale(1.05); 
 }
 
 button:active {
-    transform: scale(0.95); /* Press effect */
+    transform: scale(0.95); 
 }
 
-/* Sections */
+
 .content {
     display: none;
     padding: 20px;
